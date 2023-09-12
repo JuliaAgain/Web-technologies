@@ -100,3 +100,4 @@ return false;
 console.log(f([8.74, 3.12, 9.50, 2.35], 2.35)); // false
 console.log(f([1.1, 4.2, 7.5, 0.4], 8.4)); // false
 console.log(f([54.10, 20.00, 18.51, 97.75, 35.20, 76.42], 89.3)); // true
+
